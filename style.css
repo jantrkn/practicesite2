@@ -12,6 +12,8 @@ ul{
 }
 body{
     padding-top: 2%;
+    /* background-color: black; */
+    /* color: white; */
 }
 .menu ul li{
     color: cornflowerblue;
@@ -39,6 +41,7 @@ body{
 }
 .menu ul li a{
     color: black;
+    /* color: white; */
 }
 .menu ul li a:hover{
     color:cornflowerblue;
