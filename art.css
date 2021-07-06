@@ -15,11 +15,12 @@ body{
 } */
 img {
     border-radius: 50%;
-    width: 350px;
-    height: 350px;
-    /* padding-top: 10%; //egg shape*/
+    width: 300px;
+    height: 300px;
+    /* padding-top: 10%; //egg shape
     margin-top: 12%;
     margin-left: 15%;
+    /* display: none; */
 }
 ul{
     list-style: none;
@@ -55,8 +56,10 @@ ul{
     display: none;
 }
 .pic{
-    grid-column: 3/6;
+    grid-column: 3/5;
     grid-row: 2;
+    margin-top: 16%;
+    margin-left: 10%;
 }
 /* grid layout end */
 
