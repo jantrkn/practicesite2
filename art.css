@@ -50,6 +50,8 @@ ul{
 }
 .menu ul li{
     color: cornflowerblue;
+    /* color: pink; */
+
 }
 /* grid layout start */
 .wrapper{
@@ -117,6 +119,8 @@ ul{
 }
 .menu ul li a:hover{
     color:cornflowerblue;
+    /* color: pink; */
+
 }
 .menu ul ul{
     display:none;
@@ -129,8 +133,12 @@ ul{
 /* hover color change start */
 .list li:hover{
     color: cornflowerblue;
+    /* color: pink; */
+
 }
 .tit{
     color:cornflowerblue;
+    /* color: pink; */
+
 }
 /* hover color change end */
