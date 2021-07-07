@@ -79,3 +79,9 @@ body{
 .words a:hover{
     color:cornflowerblue;
 }
+.jana{
+    color: cornflowerblue;
+}
+.words .jana:hover{
+    color: black;
+}
